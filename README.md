@@ -26,7 +26,7 @@ This repository contains a project for analyzing insights related to the Lok Sab
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/LOK-SABHA-ELECTION-INSIGHTS-2024.git
+git clone https://github.com/gunjanagr/LOK-SABHA-ELECTION-INSIGHTS-2024.git
 ```
 
 2. Install the required libraries:
