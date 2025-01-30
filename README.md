@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 
-For any questions or inquiries, please contact the maintainers at [maintainer@example.com](maintainer@example.com).
+For any questions or inquiries, please contact the maintainers at [@gunjan](https://www.linkedin.com/in/gunjan-agarwal-55321b2b0).
 
 ## Acknowledgments
 
